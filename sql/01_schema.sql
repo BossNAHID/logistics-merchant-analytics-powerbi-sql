@@ -31,7 +31,8 @@ CREATE TABLE orders (
     delivery_date date,
     status        varchar(20) NOT NULL
                   CHECK (status IN ('Delivered', 'Returned', 'Failed', 'Cancelled')),
-    delivery_days smallint CHECK (delivery_days BETWEEN 1 AND 12),
+    -- CSV writes whole-day values with a decimal suffix (for example, 4.0).
+    delivery_days numeric(4,1) CHECK (delivery_days BETWEEN 1 AND 12),
     cod_amount    integer NOT NULL CHECK (cod_amount >= 0),
     delivery_fee  integer NOT NULL CHECK (delivery_fee >= 0),
     cod_collected smallint NOT NULL CHECK (cod_collected IN (0, 1)),
