@@ -1,0 +1,301 @@
+merchant_id,merchant_name,category,onboarding_date,kam_id,tier
+M0001,Deshi House,Fashion,2025-10-26,K05,Gold
+M0002,Nova House,Food & Beverage,2025-09-29,K05,Gold
+M0003,Smart Hub,Books & Stationery,2026-03-16,K03,Gold
+M0004,Trendy Shop,Fashion,2026-02-03,K02,Silver
+M0005,Ruposhi House,Fashion,2024-05-19,K03,Gold
+M0006,Shapla Bazar,Fashion,2026-05-04,K05,Silver
+M0007,Nova Hub,Food & Beverage,2025-07-08,K02,Silver
+M0008,Karnaphuli Hub,Beauty & Cosmetics,2024-11-30,K08,Silver
+M0009,Surma Lifestyle,Gadgets & Accessories,2025-06-15,K04,Gold
+M0010,Jamuna Zone,Home & Living,2026-09-26,K07,Silver
+M0011,Padma Point,Home & Living,2026-06-05,K06,Silver
+M0012,Nova Corner,Fashion,2026-05-12,K03,Silver
+M0013,Jamuna Corner,Food & Beverage,2025-04-23,K02,Gold
+M0014,Tarar Mart,Electronics,2026-03-21,K06,Platinum
+M0015,Padma Bazar,Home & Living,2025-02-02,K03,Silver
+M0016,Surma Hub,Books & Stationery,2025-12-10,K02,Silver
+M0017,Dhaka Point,Home & Living,2025-10-23,K08,Silver
+M0018,Rupa Corner,Food & Beverage,2024-09-15,K04,Gold
+M0019,Dhaka Zone,Fashion,2024-10-02,K01,Platinum
+M0020,Apex Store,Grocery,2024-03-04,K04,Silver
+M0021,Dhaka Store,Beauty & Cosmetics,2024-05-24,K04,Silver
+M0022,Sundarban Mart,Grocery,2025-03-24,K07,Silver
+M0023,Shotti Lifestyle,Fashion,2025-05-09,K06,Silver
+M0024,Alo Point,Fashion,2024-06-19,K02,Silver
+M0025,Ruposhi Traders,Electronics,2025-03-07,K02,Silver
+M0026,Prime House,Electronics,2025-09-16,K05,Gold
+M0027,Karnaphuli Shop,Beauty & Cosmetics,2024-08-28,K01,Gold
+M0028,Teesta Bazar,Home & Living,2024-12-15,K03,Gold
+M0029,Padma Shop,Home & Living,2025-01-15,K02,Silver
+M0030,Sabuj Hub,Beauty & Cosmetics,2025-06-06,K01,Silver
+M0031,Alo Store,Beauty & Cosmetics,2025-01-13,K08,Gold
+M0032,Rupa Collection,Fashion,2026-02-01,K01,Silver
+M0033,Nova Shop,Home & Living,2024-12-04,K01,Gold
+M0034,Smart Store,Electronics,2025-03-24,K08,Gold
+M0035,Neel Bazar,Fashion,2025-01-27,K02,Gold
+M0036,Urban Bazar,Beauty & Cosmetics,2024-07-08,K07,Platinum
+M0037,Trendy Hub,Grocery,2025-12-10,K01,Silver
+M0038,Golden Mart,Electronics,2024-08-31,K02,Platinum
+M0039,Madhumati House,Home & Living,2024-11-02,K01,Silver
+M0040,Prime Traders,Home & Living,2026-03-30,K06,Silver
+M0041,Madhumati Corner,Books & Stationery,2026-09-08,K05,Silver
+M0042,Meghna Collection,Home & Living,2025-11-24,K04,Silver
+M0043,Shotti Hub,Books & Stationery,2026-08-05,K02,Silver
+M0044,Shotti Mart,Electronics,2026-06-02,K01,Silver
+M0045,Surma Store,Gadgets & Accessories,2025-05-12,K05,Gold
+M0046,Neel Collection,Grocery,2026-03-07,K02,Silver
+M0047,Sundarban Collection,Beauty & Cosmetics,2024-12-05,K05,Platinum
+M0048,Sundarban Zone,Home & Living,2025-04-21,K06,Platinum
+M0049,Madhumati Store,Beauty & Cosmetics,2025-07-07,K07,Platinum
+M0050,Apex Hub,Grocery,2026-09-20,K04,Silver
+M0051,Prime Store,Gadgets & Accessories,2026-05-27,K01,Gold
+M0052,Meghna Bazar,Food & Beverage,2025-05-20,K03,Silver
+M0053,Urban Corner,Food & Beverage,2025-11-05,K07,Gold
+M0054,Tarar Traders,Grocery,2024-07-28,K05,Silver
+M0055,Nakshi Zone,Grocery,2026-04-11,K05,Silver
+M0056,Karnaphuli Traders,Gadgets & Accessories,2025-07-25,K04,Silver
+M0057,Deshi Point,Electronics,2025-07-04,K02,Silver
+M0058,Nova Point,Gadgets & Accessories,2026-03-03,K08,Platinum
+M0059,Royal Shop,Grocery,2025-10-16,K07,Gold
+M0060,Karnaphuli Mart,Fashion,2024-03-15,K08,Gold
+M0061,Smart House,Fashion,2024-10-24,K07,Gold
+M0062,Dhaka Traders,Gadgets & Accessories,2024-07-01,K03,Gold
+M0063,Fresh Point,Fashion,2026-01-29,K03,Silver
+M0064,Bangla Bazar,Electronics,2024-02-06,K02,Gold
+M0065,Shapla Zone,Beauty & Cosmetics,2024-07-28,K08,Platinum
+M0066,Surma Mart,Fashion,2025-09-09,K05,Platinum
+M0067,Deshi Corner,Electronics,2025-12-19,K04,Gold
+M0068,Smart Point,Gadgets & Accessories,2025-06-04,K08,Gold
+M0069,Mukto Mart,Fashion,2026-06-08,K05,Silver
+M0070,Surma Traders,Gadgets & Accessories,2026-08-08,K08,Silver
+M0071,Apex Corner,Gadgets & Accessories,2024-05-16,K08,Platinum
+M0072,Tarar Zone,Beauty & Cosmetics,2026-09-11,K01,Silver
+M0073,Dhaka Corner,Fashion,2025-09-27,K03,Gold
+M0074,Meghna Shop,Home & Living,2025-10-19,K06,Gold
+M0075,Urban House,Fashion,2024-04-08,K07,Gold
+M0076,Deshi Mart,Beauty & Cosmetics,2025-10-05,K02,Platinum
+M0077,Shapla Lifestyle,Food & Beverage,2026-01-20,K03,Gold
+M0078,Prime Shop,Food & Beverage,2025-08-23,K05,Silver
+M0079,Teesta Hub,Gadgets & Accessories,2024-03-28,K07,Gold
+M0080,Dhaka Bazar,Electronics,2025-06-25,K01,Silver
+M0081,Royal Store,Books & Stationery,2026-08-25,K05,Silver
+M0082,Sundarban Lifestyle,Books & Stationery,2026-01-18,K03,Silver
+M0083,Tarar House,Beauty & Cosmetics,2024-05-22,K02,Silver
+M0084,Urban Traders,Home & Living,2026-09-19,K05,Silver
+M0085,Apex Collection,Fashion,2026-09-18,K04,Gold
+M0086,Apex Traders,Fashion,2024-06-24,K06,Silver
+M0087,Bangla Collection,Grocery,2026-04-08,K03,Silver
+M0088,Neel Mart,Fashion,2025-02-24,K07,Platinum
+M0089,Meghna Mart,Fashion,2025-09-05,K01,Silver
+M0090,Trendy House,Gadgets & Accessories,2025-04-05,K07,Platinum
+M0091,Prime Zone,Food & Beverage,2026-03-20,K01,Gold
+M0092,Sabuj Mart,Home & Living,2026-10-27,K06,Silver
+M0093,Padma Zone,Gadgets & Accessories,2026-04-02,K03,Platinum
+M0094,Jamuna Collection,Food & Beverage,2026-08-21,K04,Silver
+M0095,Mukto Corner,Fashion,2026-09-05,K01,Silver
+M0096,Nova Mart,Beauty & Cosmetics,2024-04-03,K06,Silver
+M0097,Neel Store,Beauty & Cosmetics,2024-09-18,K02,Silver
+M0098,Ruposhi Hub,Fashion,2026-01-16,K06,Silver
+M0099,Neel Traders,Gadgets & Accessories,2025-09-02,K06,Silver
+M0100,Tarar Shop,Beauty & Cosmetics,2024-02-21,K07,Silver
+M0101,Neel Shop,Beauty & Cosmetics,2024-04-08,K06,Platinum
+M0102,Golden Point,Fashion,2025-06-22,K03,Gold
+M0103,Nova Lifestyle,Fashion,2025-09-29,K06,Silver
+M0104,Dhaka Lifestyle,Food & Beverage,2024-06-22,K07,Gold
+M0105,Ruposhi Lifestyle,Fashion,2024-06-26,K03,Gold
+M0106,Trendy Corner,Electronics,2024-05-13,K01,Gold
+M0107,Tarar Lifestyle,Electronics,2025-08-07,K08,Silver
+M0108,Fresh Corner,Grocery,2024-01-09,K02,Silver
+M0109,Mukto Point,Home & Living,2025-08-14,K05,Platinum
+M0110,Shapla Mart,Grocery,2025-05-07,K02,Gold
+M0111,Meghna Point,Fashion,2025-04-26,K02,Silver
+M0112,Nakshi Collection,Electronics,2025-12-03,K07,Gold
+M0113,Padma Mart,Gadgets & Accessories,2025-06-24,K02,Gold
+M0114,Teesta Point,Home & Living,2026-01-22,K06,Silver
+M0115,Trendy Lifestyle,Home & Living,2026-02-28,K06,Silver
+M0116,Sabuj Collection,Books & Stationery,2026-08-09,K01,Silver
+M0117,Rupa Point,Gadgets & Accessories,2026-04-06,K02,Silver
+M0118,Jamuna Lifestyle,Fashion,2025-06-19,K07,Gold
+M0119,Golden Hub,Beauty & Cosmetics,2025-05-23,K05,Silver
+M0120,Neel Point,Grocery,2024-08-31,K01,Gold
+M0121,Nakshi House,Beauty & Cosmetics,2025-09-11,K08,Gold
+M0122,Apex Bazar,Gadgets & Accessories,2024-05-23,K03,Gold
+M0123,Sabuj Traders,Grocery,2026-08-20,K01,Gold
+M0124,Meghna Traders,Gadgets & Accessories,2026-05-23,K08,Gold
+M0125,Neel Corner,Gadgets & Accessories,2024-05-03,K01,Platinum
+M0126,Tarar Hub,Grocery,2026-03-23,K05,Gold
+M0127,Madhumati Zone,Food & Beverage,2024-05-01,K08,Silver
+M0128,Madhumati Point,Home & Living,2026-01-15,K05,Gold
+M0129,Smart Corner,Gadgets & Accessories,2024-03-31,K05,Gold
+M0130,Deshi Shop,Beauty & Cosmetics,2025-05-19,K04,Gold
+M0131,Trendy Collection,Grocery,2025-11-11,K02,Gold
+M0132,Golden Lifestyle,Grocery,2026-01-23,K05,Gold
+M0133,Trendy Bazar,Fashion,2025-03-08,K08,Gold
+M0134,Sabuj Corner,Beauty & Cosmetics,2026-08-10,K01,Silver
+M0135,Padma Traders,Food & Beverage,2026-03-11,K08,Silver
+M0136,Alo Lifestyle,Home & Living,2024-08-03,K04,Gold
+M0137,Apex Mart,Fashion,2025-11-25,K05,Gold
+M0138,Alo Collection,Beauty & Cosmetics,2026-01-25,K02,Silver
+M0139,Deshi Bazar,Fashion,2024-12-10,K05,Gold
+M0140,Bangla Shop,Fashion,2026-02-02,K02,Silver
+M0141,Ruposhi Collection,Food & Beverage,2026-07-17,K03,Silver
+M0142,Nova Zone,Beauty & Cosmetics,2026-04-24,K06,Silver
+M0143,Fresh Lifestyle,Electronics,2026-02-27,K01,Silver
+M0144,Shapla Hub,Home & Living,2025-10-18,K04,Platinum
+M0145,Trendy Traders,Fashion,2024-10-06,K05,Silver
+M0146,Deshi Traders,Electronics,2026-04-02,K02,Silver
+M0147,Sabuj Lifestyle,Books & Stationery,2025-01-11,K03,Silver
+M0148,Madhumati Collection,Home & Living,2025-07-04,K03,Silver
+M0149,Prime Lifestyle,Food & Beverage,2024-11-21,K06,Gold
+M0150,Royal Bazar,Home & Living,2024-11-19,K08,Silver
+M0151,Sabuj Shop,Grocery,2024-06-11,K07,Silver
+M0152,Rupa House,Gadgets & Accessories,2026-09-20,K02,Silver
+M0153,Royal Corner,Food & Beverage,2024-06-01,K01,Gold
+M0154,Madhumati Bazar,Gadgets & Accessories,2024-03-30,K01,Gold
+M0155,Ruposhi Shop,Food & Beverage,2026-08-25,K05,Silver
+M0156,Jamuna Store,Gadgets & Accessories,2025-07-27,K02,Gold
+M0157,Nova Bazar,Food & Beverage,2025-03-28,K02,Silver
+M0158,Rupa Shop,Fashion,2026-02-01,K07,Silver
+M0159,Karnaphuli Bazar,Gadgets & Accessories,2025-01-31,K07,Silver
+M0160,Mukto Traders,Beauty & Cosmetics,2024-05-12,K07,Gold
+M0161,Teesta Store,Home & Living,2026-01-24,K03,Silver
+M0162,Golden Collection,Books & Stationery,2024-06-30,K05,Platinum
+M0163,Sundarban Bazar,Food & Beverage,2025-07-25,K05,Gold
+M0164,Smart Zone,Food & Beverage,2026-09-08,K02,Silver
+M0165,Deshi Hub,Electronics,2026-08-25,K05,Silver
+M0166,Mukto Bazar,Gadgets & Accessories,2025-01-08,K05,Gold
+M0167,Royal Collection,Gadgets & Accessories,2026-03-17,K04,Silver
+M0168,Fresh Store,Beauty & Cosmetics,2025-09-25,K07,Gold
+M0169,Sabuj House,Fashion,2025-05-10,K06,Platinum
+M0170,Shotti Store,Fashion,2024-05-24,K05,Silver
+M0171,Padma Store,Gadgets & Accessories,2025-01-24,K06,Platinum
+M0172,Fresh Hub,Grocery,2025-11-05,K07,Platinum
+M0173,Jamuna House,Food & Beverage,2026-10-17,K05,Silver
+M0174,Karnaphuli Collection,Beauty & Cosmetics,2024-01-06,K03,Platinum
+M0175,Prime Mart,Food & Beverage,2026-01-12,K07,Gold
+M0176,Sundarban Hub,Beauty & Cosmetics,2026-05-25,K06,Silver
+M0177,Meghna Zone,Gadgets & Accessories,2026-09-10,K08,Silver
+M0178,Madhumati Traders,Fashion,2025-03-14,K02,Silver
+M0179,Bangla Corner,Home & Living,2024-05-02,K04,Silver
+M0180,Prime Point,Gadgets & Accessories,2024-10-07,K08,Gold
+M0181,Meghna Corner,Food & Beverage,2026-05-29,K05,Silver
+M0182,Sundarban Store,Gadgets & Accessories,2026-06-26,K08,Silver
+M0183,Surma Collection,Fashion,2025-10-20,K01,Silver
+M0184,Sundarban Corner,Beauty & Cosmetics,2024-05-06,K01,Gold
+M0185,Padma Lifestyle,Fashion,2024-05-06,K07,Gold
+M0186,Bangla Hub,Fashion,2025-05-09,K03,Platinum
+M0187,Jamuna Bazar,Books & Stationery,2025-08-31,K05,Silver
+M0188,Surma Corner,Books & Stationery,2024-02-03,K04,Platinum
+M0189,Karnaphuli Point,Gadgets & Accessories,2025-12-10,K04,Gold
+M0190,Dhaka Hub,Food & Beverage,2025-07-17,K08,Gold
+M0191,Urban Store,Gadgets & Accessories,2024-01-13,K01,Gold
+M0192,Shotti Bazar,Gadgets & Accessories,2024-04-08,K07,Gold
+M0193,Sundarban Point,Fashion,2025-04-14,K08,Gold
+M0194,Urban Shop,Electronics,2026-01-17,K06,Platinum
+M0195,Shapla House,Home & Living,2026-05-03,K04,Silver
+M0196,Karnaphuli Zone,Gadgets & Accessories,2025-03-21,K02,Platinum
+M0197,Sabuj Zone,Fashion,2024-11-01,K06,Silver
+M0198,Teesta Traders,Grocery,2026-09-28,K04,Silver
+M0199,Royal Traders,Books & Stationery,2025-04-19,K02,Silver
+M0200,Shapla Point,Fashion,2024-11-22,K03,Gold
+M0201,Deshi Store,Beauty & Cosmetics,2025-04-02,K08,Platinum
+M0202,Madhumati Shop,Food & Beverage,2024-01-13,K03,Gold
+M0203,Fresh House,Books & Stationery,2024-11-08,K02,Silver
+M0204,Alo Mart,Electronics,2025-06-17,K06,Silver
+M0205,Ruposhi Zone,Gadgets & Accessories,2026-08-07,K02,Silver
+M0206,Royal Hub,Beauty & Cosmetics,2026-02-02,K08,Silver
+M0207,Padma Hub,Gadgets & Accessories,2026-03-18,K07,Silver
+M0208,Mukto Hub,Electronics,2025-07-17,K08,Gold
+M0209,Golden Store,Home & Living,2024-04-24,K08,Platinum
+M0210,Rupa Bazar,Beauty & Cosmetics,2025-02-08,K02,Platinum
+M0211,Alo Shop,Electronics,2026-10-27,K02,Silver
+M0212,Golden House,Food & Beverage,2024-02-15,K03,Platinum
+M0213,Ruposhi Store,Fashion,2026-06-28,K04,Gold
+M0214,Golden Corner,Fashion,2025-12-08,K08,Silver
+M0215,Bangla Zone,Beauty & Cosmetics,2024-10-20,K06,Gold
+M0216,Fresh Mart,Books & Stationery,2026-03-15,K06,Silver
+M0217,Madhumati Hub,Gadgets & Accessories,2026-05-15,K08,Silver
+M0218,Shotti Corner,Food & Beverage,2024-02-14,K06,Silver
+M0219,Trendy Mart,Electronics,2024-04-20,K04,Silver
+M0220,Deshi Zone,Beauty & Cosmetics,2025-11-19,K04,Silver
+M0221,Jamuna Hub,Fashion,2026-10-30,K05,Silver
+M0222,Smart Traders,Home & Living,2024-01-25,K01,Silver
+M0223,Rupa Traders,Food & Beverage,2025-11-19,K06,Silver
+M0224,Tarar Point,Books & Stationery,2024-05-21,K06,Gold
+M0225,Bangla Mart,Home & Living,2025-11-03,K06,Gold
+M0226,Shapla Shop,Beauty & Cosmetics,2025-10-06,K05,Gold
+M0227,Jamuna Point,Food & Beverage,2024-04-03,K07,Silver
+M0228,Nakshi Store,Grocery,2025-12-04,K08,Gold
+M0229,Royal Point,Fashion,2026-07-16,K05,Gold
+M0230,Bangla Point,Beauty & Cosmetics,2026-06-11,K04,Silver
+M0231,Royal Zone,Fashion,2024-01-30,K01,Platinum
+M0232,Dhaka Shop,Fashion,2024-09-11,K07,Platinum
+M0233,Apex Lifestyle,Fashion,2024-09-06,K08,Gold
+M0234,Urban Zone,Beauty & Cosmetics,2025-04-13,K06,Gold
+M0235,Padma Collection,Home & Living,2024-05-27,K07,Gold
+M0236,Golden Bazar,Beauty & Cosmetics,2026-06-02,K07,Silver
+M0237,Prime Corner,Beauty & Cosmetics,2026-03-14,K07,Silver
+M0238,Dhaka Mart,Food & Beverage,2026-04-15,K05,Gold
+M0239,Shotti Shop,Gadgets & Accessories,2024-07-23,K01,Silver
+M0240,Shapla Traders,Grocery,2024-01-16,K01,Silver
+M0241,Sabuj Bazar,Electronics,2026-07-30,K02,Gold
+M0242,Apex House,Food & Beverage,2024-10-25,K04,Platinum
+M0243,Smart Bazar,Electronics,2025-11-09,K06,Platinum
+M0244,Golden Zone,Beauty & Cosmetics,2026-07-29,K04,Silver
+M0245,Surma House,Food & Beverage,2024-02-07,K01,Silver
+M0246,Sundarban Traders,Grocery,2024-01-06,K02,Gold
+M0247,Neel Zone,Gadgets & Accessories,2024-01-06,K08,Gold
+M0248,Jamuna Shop,Home & Living,2024-06-10,K08,Gold
+M0249,Fresh Traders,Books & Stationery,2024-02-23,K04,Platinum
+M0250,Prime Collection,Electronics,2026-04-27,K07,Silver
+M0251,Urban Mart,Electronics,2025-09-18,K06,Gold
+M0252,Karnaphuli Store,Beauty & Cosmetics,2026-10-10,K08,Silver
+M0253,Prime Hub,Fashion,2026-04-08,K08,Silver
+M0254,Nakshi Traders,Food & Beverage,2026-09-22,K06,Silver
+M0255,Meghna Lifestyle,Electronics,2024-09-03,K04,Silver
+M0256,Sundarban House,Home & Living,2024-10-24,K06,Gold
+M0257,Prime Bazar,Gadgets & Accessories,2026-05-28,K03,Silver
+M0258,Urban Point,Gadgets & Accessories,2024-09-10,K03,Silver
+M0259,Mukto House,Beauty & Cosmetics,2024-02-29,K05,Platinum
+M0260,Padma House,Grocery,2025-11-22,K05,Gold
+M0261,Surma Shop,Food & Beverage,2026-04-08,K05,Silver
+M0262,Madhumati Lifestyle,Books & Stationery,2026-09-28,K04,Silver
+M0263,Teesta House,Gadgets & Accessories,2026-08-17,K04,Silver
+M0264,Tarar Corner,Food & Beverage,2024-05-04,K01,Silver
+M0265,Shotti Traders,Gadgets & Accessories,2026-03-09,K05,Silver
+M0266,Padma Corner,Fashion,2026-05-24,K05,Platinum
+M0267,Smart Lifestyle,Home & Living,2025-12-22,K08,Gold
+M0268,Mukto Zone,Fashion,2026-04-27,K05,Gold
+M0269,Neel House,Books & Stationery,2026-05-16,K04,Silver
+M0270,Royal House,Food & Beverage,2025-04-06,K01,Gold
+M0271,Royal Mart,Grocery,2024-02-11,K02,Silver
+M0272,Bangla House,Beauty & Cosmetics,2025-04-16,K03,Gold
+M0273,Deshi Collection,Fashion,2024-07-27,K04,Platinum
+M0274,Dhaka House,Food & Beverage,2024-04-27,K03,Silver
+M0275,Meghna House,Fashion,2024-05-09,K04,Silver
+M0276,Teesta Lifestyle,Fashion,2025-12-22,K07,Silver
+M0277,Tarar Collection,Electronics,2025-06-05,K02,Gold
+M0278,Ruposhi Corner,Fashion,2025-07-12,K03,Gold
+M0279,Jamuna Mart,Beauty & Cosmetics,2026-02-09,K02,Gold
+M0280,Meghna Hub,Grocery,2025-07-20,K03,Gold
+M0281,Shotti Zone,Electronics,2025-10-13,K06,Platinum
+M0282,Tarar Store,Fashion,2024-03-29,K01,Gold
+M0283,Shotti Collection,Fashion,2026-05-30,K03,Gold
+M0284,Shotti House,Beauty & Cosmetics,2025-04-09,K01,Platinum
+M0285,Sabuj Point,Fashion,2024-06-09,K08,Gold
+M0286,Fresh Collection,Books & Stationery,2026-04-20,K06,Silver
+M0287,Mukto Shop,Fashion,2026-01-29,K02,Gold
+M0288,Jamuna Traders,Electronics,2024-02-24,K02,Gold
+M0289,Shapla Corner,Beauty & Cosmetics,2024-07-18,K01,Gold
+M0290,Shapla Collection,Beauty & Cosmetics,2024-01-17,K04,Platinum
+M0291,Apex Shop,Fashion,2024-10-06,K07,Silver
+M0292,Nakshi Shop,Fashion,2024-04-13,K05,Silver
+M0293,Rupa Mart,Food & Beverage,2026-01-04,K08,Silver
+M0294,Madhumati Mart,Fashion,2025-06-24,K03,Silver
+M0295,Karnaphuli Lifestyle,Grocery,2026-10-10,K03,Silver
+M0296,Rupa Hub,Grocery,2026-02-13,K04,Silver
+M0297,Nakshi Corner,Beauty & Cosmetics,2025-09-24,K02,Silver
+M0298,Deshi Lifestyle,Beauty & Cosmetics,2025-06-10,K08,Silver
+M0299,Surma Point,Gadgets & Accessories,2024-02-26,K02,Platinum
+M0300,Nova Collection,Gadgets & Accessories,2024-03-13,K04,Platinum

@@ -1,0 +1,100 @@
+-- Paste these measures into the Power BI model after importing the SQL views.
+-- fact_orders[recognized_revenue] counts the delivery fee on delivered parcels;
+-- COD cash is merchant money and is deliberately excluded from courier revenue.
+
+Total Orders =
+COUNTROWS ( fact_orders )
+
+Delivered Orders =
+SUM ( fact_orders[delivered_order] )
+
+Returned Orders =
+SUM ( fact_orders[returned_order] )
+
+Failed Orders =
+SUM ( fact_orders[failed_order] )
+
+Delivery Success Rate =
+DIVIDE ( [Delivered Orders], [Total Orders], 0 )
+
+Return Rate =
+DIVIDE ( [Returned Orders], [Total Orders], 0 )
+
+Average Delivery Days =
+AVERAGE ( fact_orders[delivery_days] )
+
+COD Collection Rate =
+DIVIDE (
+    SUM ( fact_orders[cod_collected] ),
+    CALCULATE (
+        [Total Orders],
+        fact_orders[status] = "Delivered",
+        fact_orders[cod_amount] > 0
+    ),
+    0
+)
+
+Revenue =
+SUM ( fact_orders[recognized_revenue] )
+
+Revenue MoM Change % =
+VAR PreviousMonthRevenue =
+    CALCULATE ( [Revenue], DATEADD ( dim_date[Date], -1, MONTH ) )
+RETURN
+    DIVIDE ( [Revenue] - PreviousMonthRevenue, PreviousMonthRevenue, 0 )
+
+Revenue YTD =
+TOTALYTD ( [Revenue], dim_date[Date] )
+
+Rolling 3M Orders =
+CALCULATE (
+    [Total Orders],
+    DATESINPERIOD ( dim_date[Date], MAX ( dim_date[Date] ), -3, MONTH )
+)
+
+Churn Risk Flag =
+VAR WindowEnd = MAX ( dim_date[Date] )
+VAR PreviousThreeMonths =
+    CALCULATE (
+        [Total Orders],
+        DATESBETWEEN (
+            dim_date[Date],
+            EOMONTH ( WindowEnd, -6 ) + 1,
+            EOMONTH ( WindowEnd, -3 )
+        )
+    )
+VAR LatestThreeMonths =
+    CALCULATE (
+        [Total Orders],
+        DATESBETWEEN (
+            dim_date[Date],
+            EOMONTH ( WindowEnd, -3 ) + 1,
+            WindowEnd
+        )
+    )
+RETURN
+    IF (
+        NOT ISBLANK ( SELECTEDVALUE ( dim_merchant[merchant_id] ) )
+            && PreviousThreeMonths >= 20
+            && LatestThreeMonths < PreviousThreeMonths * 0.7,
+        1,
+        0
+    )
+
+Issue Count =
+COUNTROWS ( fact_issues )
+
+Open Issues =
+CALCULATE ( [Issue Count], fact_issues[status] = "Open" )
+
+Average Resolution Hours =
+AVERAGE ( fact_issues[resolution_hours] )
+
+Orders with Issues =
+DISTINCTCOUNT ( fact_issues[order_id] )
+
+Share of Orders with Issues =
+DIVIDE ( [Orders with Issues], [Total Orders], 0 )
+
+Average Delivery Fee =
+DIVIDE ( [Revenue], [Delivered Orders], 0 )

@@ -1,0 +1,43 @@
+{
+  "name": "Dhaka parcel desk",
+  "dataColors": [
+    "#1F5A53",
+    "#D97642",
+    "#D6A04A",
+    "#6F8297",
+    "#7FA58B",
+    "#B65F54",
+    "#8796B4",
+    "#A3AA76"
+  ],
+  "background": "#F6F4EF",
+  "foreground": "#263238",
+  "tableAccent": "#D97642",
+  "visualStyles": {
+    "*": {
+      "*": {
+        "title": [
+          {
+            "fontFace": "Aptos Display",
+            "fontSize": 12,
+            "color": {
+              "solid": {
+                "color": "#263238"
+              }
+            }
+          }
+        ],
+        "background": [
+          {
+            "color": {
+              "solid": {
+                "color": "#FFFFFF"
+              }
+            },
+            "transparency": 0
+          }
+        ]
+      }
+    }
+  }
+}

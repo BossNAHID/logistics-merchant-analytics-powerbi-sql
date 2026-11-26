@@ -1,0 +1,13 @@
+# Local Python environment and caches
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# The ECC checkout is a working reference, not part of this portfolio project's history.
+/ecc/
+
+# Power BI Desktop lock/cache files
+*.pbix.lock
+*.pbit.lock
+.DS_Store
