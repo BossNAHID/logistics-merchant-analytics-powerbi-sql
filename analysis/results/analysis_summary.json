@@ -1,0 +1,14 @@
+{
+  "regression_level": "one row per hub",
+  "hub_count": 12,
+  "hub_slope_return_rate_per_day": 0.012974040300118355,
+  "hub_intercept": -0.0011696208655894394,
+  "hub_correlation": 0.9677705850970896,
+  "hub_r_squared": 0.9365799053791632,
+  "regression_caveat": "This is an association in synthetic hub-level data, not a causal estimate. Hub mix and shipment volume can affect the comparison.",
+  "orders_in_sample": 59487,
+  "forecast_method": "flat 3-month moving average",
+  "forecast_baseline_orders": 5652.7,
+  "forecast_horizon_months": 3,
+  "forecast_caveat": "A short baseline, not a seasonal or capacity-aware forecast."
+}
